@@ -1,0 +1,1 @@
+export GOOGLE_APPLICATION_CREDENTIALS=/yourdirectory/Yourjsonauthenticationobject.js
