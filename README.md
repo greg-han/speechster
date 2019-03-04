@@ -6,3 +6,7 @@ the goal changed to reading downloaded audio files. Then, I decided that it shou
 
 Unfortunately, my teammate left late and I was on my own. I didn't want to present by myself so I just left.
 First time using gcloud platform. Just used some of their test scripts.
+Uses CRA and some express boilerplate. I basically had to come up with a very basic design and figure out the gcloud api.
+
+*Note for later, USE ASYNC/AWAIT CLIENTSIDE this will work.
+Just need to set up a recorder, and set some code to retrieve the downloaded file after recording. 
